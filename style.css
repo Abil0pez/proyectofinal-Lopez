@@ -1,0 +1,71 @@
+.body{
+    background-image: url(../img/todo1.jpg);
+}
+
+.titulo1{
+    color: white;
+    font-family: "$letra-pippins";
+    padding: 30px;
+    text-align: center;
+    background-color: #000000b1;
+}
+
+.letra1{
+    color: white;
+    font-family: "$letra-pippins";
+    padding: 30px;
+    padding-top: 100px;
+    font-size: 1.2rem;
+}
+
+.div1{
+    height: 20em;
+    margin-left: 20px;
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.div2{
+    height: 20em;
+    margin-left: 20px;
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.ambos-b{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.boton1{
+    display: flex;
+    justify-content: left;
+    height: 40px;
+    margin-left: 20px;
+
+}
+
+.boton2{
+    display: flex;
+    justify-content: left;
+    height: 40px;
+    margin-left: 20px;
+    padding-top: 10px  ;
+}
+
+.boton-ambos{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.chiste{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px  ;
+    height: 2em;    
+}
+
+.boton-c{
+    background-color: rgba(14, 151, 169, 0.694);
+    color: white;
+}
